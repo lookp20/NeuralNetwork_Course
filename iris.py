@@ -2,7 +2,7 @@
 """
 Gruppenmitglieder: 
 Tobias Brückner
-Georgii Kostiuschik
+Georgii Kostiuchik
 Look Phanthavong
 """
 
